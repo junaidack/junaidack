@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Junaid Ackroyd 👋</h1>
-  <p><strong>Founder & Founding Engineer @ <a href="https://agentic.software">Agentic Software</a></strong><br>
+  <p><strong>Founder & Founding Engineer @ <a href="https://agenticsoftware.net">Agentic Software</a></strong><br>
   Building AI agents and consumer products in San Francisco</p>
   
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
