@@ -17,7 +17,7 @@
 **Mendota.ai** — AI-powered automated investment analyst  
 - Web search + real-time market data, analyst reports & news aggregation  
 - Powered by Next.js, TypeScript, OpenAI, Exa, Polygon, Stripe & Supabase  
-- Live: [mendota.ai](https://mendota.ai) (link when ready)
+- Live: [mendota.ai](https://mendota.ai)
 
 **Dreambody** — AI personal fitness & nutrition coach (iOS App Store)  
 - Sole developer using SwiftUI + Firebase + OpenAI (text + vision)  
