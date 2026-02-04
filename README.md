@@ -42,11 +42,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidack&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidack&theme=radical" height="150" />
-</div>
-
 <p align="center">
   <i>Always shipping. Open to interesting problems in AI, fintech, and consumer products.</i>
 </p>
