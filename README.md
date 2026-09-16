@@ -27,7 +27,8 @@
 - Secured commitments from **6 of the top 100** finance writers
 
 ### 💼 Experience
-- **Founder** — Agentic Software (2025–Present)
+- **Founding GTM Engineer** Weave (YC W25)
+- **Founder** — Agentic Software
 - **Software Engineer** — Post Fiat (crypto AI agent on XRPL)
 - **Software Engineer** — The Home Depot (distributed systems across 2,300+ stores)
 - **Intern** — ALL3D (frontend demo → $5M Series A)
